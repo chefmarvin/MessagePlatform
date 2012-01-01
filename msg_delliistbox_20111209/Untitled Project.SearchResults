@@ -1,0 +1,4 @@
+---- ReadSIMInboxBox Matches (3 in 2 files) ----
+Del_Msgs_smsg.h:	ReadSIMInboxBox();
+Inbox_smsg.h:static void ReadSIMInboxBox ()
+Inbox_smsg.h:	ReadSIMInboxBox();
